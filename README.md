@@ -13,7 +13,7 @@ To formulate this problem, a maze with some blocked paths of the size of 6x6 is 
 
 For better clarity, I’ve separated the codes into four files, namely main.py, fact.py, and rule.py which has the main codes with problem formulation, Fact class codes, and Rule class codes in the three files respectively.
 
-## Expected Outputs
+## Expected Output
 ![Expected_Output](resources/Expected_Output.png)
 
 
